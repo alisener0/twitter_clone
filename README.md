@@ -12,7 +12,5 @@ react-toastify: Kullanıcıya bildirim mesajları (toast notifications) gösteri
 
 @react-router-dom: Sayfa yönlendirmelerini (routing) yönetir.
 
-moment: Tarih ve zaman verilerini işlemek ve formatlamak için kullanılır.
-
 Bu kütüphaneler, uygulamanın işlevselliğini artırmak ve kullanıcı deneyimini iyileştirmek amacıyla kullanılmıştır.
 
