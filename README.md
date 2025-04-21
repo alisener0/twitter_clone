@@ -1,16 +1,18 @@
-# twitter_clone
-Kullanılan Kütüphaneler:
-firebase: Kullanıcı kimlik doğrulama, veritabanı yönetimi ve dosya depolama için kullanılır.
+**Twitter Clone** is a simplified replica of the Twitter platform built using modern web technologies. It includes core social features like posting tweets, a dynamic feed, user interactions, and a clean, responsive design — ideal for learning front-end frameworks and app structure.
 
-react-icons: React uygulamaları için ikon setlerini sağlar.
+🚀 Features
+✍️ Post and view tweets
 
-uuid: Benzersiz kimlikler (ID'ler) oluşturur.
+🧵 Dynamic timeline/feed
 
-tailwind: Duyarlı ve özelleştirilebilir stil tasarımları için CSS framework'ü.
+👤 User interface with profile elements
 
-react-toastify: Kullanıcıya bildirim mesajları (toast notifications) gösterir.
+📱 Responsive design for all screen sizes
 
-@react-router-dom: Sayfa yönlendirmelerini (routing) yönetir.
+⚙️ Scalable project structure
 
-Bu kütüphaneler, uygulamanın işlevselliğini artırmak ve kullanıcı deneyimini iyileştirmek amacıyla kullanılmıştır.
 
+🛠️ Technologies Used
+HTML5
+CSS3
+JavaScript
